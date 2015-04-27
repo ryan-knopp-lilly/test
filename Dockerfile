@@ -1,5 +1,3 @@
-
-RUN echo "Installing tutum/apache-php"
 FROM tutum/apache-php
 
 RUN echo "Installing site"
